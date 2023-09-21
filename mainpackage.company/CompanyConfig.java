@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class CompanyConfig {
-    private static int IANUM = 23;
+    private static int IANUM = 5739;
 
     public static int getIANUM() {
         return IANUM;
